@@ -1,6 +1,6 @@
 <img src="https://driftbot.io/img/bot.svg" width="100px" />
 
-# Driftbot - https://driftbot.io
+# Driftbot - https://driftbot.
 
 A simple web app software supply chain monitoring toolkit.
 
