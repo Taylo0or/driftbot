@@ -1,6 +1,6 @@
 {
-  "script_hosts": [],
-  "xhr_hosts": [],
+  "script_hosts": ["https://pay.globepay.co"],
+  "xhr_hosts": ["https://pay.globepay.co"],
   "websocket_hosts": [],
   "webworker_hosts": [],
   "obfuscated_script_hosts": [],
